@@ -1,4 +1,4 @@
-one of the final projects of the brad trasevry next js course. 
+one of the final projects of the brad traversy next js course. 
 uses next js built in api to fetch data from a local json file. 
 
 focus of this part of course was mostly on getstaticpaths and getstaticprops.
